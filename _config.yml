@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 测试用个人博客
-subtitle: '2190400403陈逸潇'
-description: '描述五个字'
+title: tzy的博客
+subtitle: '789'
+description: ''
 keywords:
-author: 2190400403陈逸潇
+author: 2190400314唐志远
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://121.36.87.89/
+url: http://121.36.38.33/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -98,11 +98,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@121.36.87.89:/var/repo/hexo.git
+  repo: git@121.36.38.33:/var/repo/hexo.git
   branch: master
